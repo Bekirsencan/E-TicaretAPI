@@ -4,15 +4,15 @@ A simple ecommerce store for selling books.
 
 # Setup
 
-1. Create venv
+* Create venv
 ```
 py -m venv venv
 ```
-2. Activate venv
+* Activate venv
 ```
 venv\Scripts\activate
 ```
-3. Install requirements.txt
+* Install requirements.txt
 ```
 pip install -r requirements.txt
 ```
